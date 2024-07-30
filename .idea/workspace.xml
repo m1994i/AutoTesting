@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="695acbff-d3e1-4534-91cb-b81f2cba8c47" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2jCACbCnHyKZ55zT2kiPk6HshS2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.example.executor": "Run",
+    "Cucumber Java.Feature: logIn.executor": "Run",
+    "Cucumber Java.Scenario: Successfully login.executor": "Run",
+    "Cucumber Java.Scenario: Successfully sort product from catalogue.executor": "Run",
+    "JUnit.TestRun.executor": "Run",
+    "JUnit.TestRun2.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.C:/Users/Pc/Desktop/It akademija/Python and Java/Java/Vezbe/AutoTesting/paralleltesting.xml.executor": "Run",
+    "TestNG.C:/Users/Pc/Desktop/It akademija/Python and Java/Java/Vezbe/AutoTesting/testng.xml.executor": "Run",
+    "TestNG.autoTest.CataloguePage.executor": "Run",
+    "TestNG.autoTest.LogIN.executor": "Run",
+    "TestNG.autoTest.checkoutPage.executor": "Run",
+    "TestNG.autoTest.executor": "Run",
+    "TestNG.autoTest.productPage.executor": "Run",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_directory_selection": "C:/Users/Pc/Desktop/It akademija/Python and Java/Java/Vezbe/AutoTesting/src/test/java",
+    "last_opened_file_path": "C:/Users/Pc/Desktop/It akademija/Python and Java/Java/Vezbe/AutoTesting",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.19655173",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Pc\Desktop\It akademija\Python and Java\Java\Vezbe\AutoTesting" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Pc\Desktop\It akademija\Python and Java\Java\Vezbe\AutoTesting\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Users/Pc/Desktop/It akademija/Python and Java/Java/Vezbe/AutoTesting/paralleltesting.xml">
+    <configuration name="Scenario: Successfully login" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/Features/logIn.feature" />
+      <option name="GLUE" value="steps" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="AutoTesting" />
+      <option name="NAME_FILTER" value="^Successfully login$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Successfully login$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Successfully login" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRun" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AutoTesting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testRunner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testRunner" />
+      <option name="MAIN_CLASS_NAME" value="testRunner.TestRun" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/Pc/Desktop/It akademija/Python and Java/Java/Vezbe/AutoTesting/paralleltesting.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AutoTesting" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/paralleltesting.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/Pc/Desktop/It akademija/Python and Java/Java/Vezbe/AutoTesting/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AutoTesting" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="autoTest.LogIN" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AutoTesting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="autoTesting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="autoTesting" />
+      <option name="MAIN_CLASS_NAME" value="autoTesting.autoTest" />
+      <option name="METHOD_NAME" value="LogIN" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/Pc/Desktop/It akademija/Python and Java/Java/Vezbe/AutoTesting/paralleltesting.xml" />
+        <item itemvalue="TestNG.C:/Users/Pc/Desktop/It akademija/Python and Java/Java/Vezbe/AutoTesting/testng.xml" />
+        <item itemvalue="JUnit.TestRun" />
+        <item itemvalue="TestNG.autoTest.LogIN" />
+        <item itemvalue="Cucumber Java.Scenario: Successfully login" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="695acbff-d3e1-4534-91cb-b81f2cba8c47" name="Changes" comment="" />
+      <created>1720880560229</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1720880560229</updated>
+    </task>
+    <servers />
+  </component>
+</project>

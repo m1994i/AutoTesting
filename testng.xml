@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/Pc/Desktop/It akademija/Python and Java/Java/Vezbe/AutoTesting/src">
+        <classes>
+            <class name="testing.autoTest">
+                <methods>
+                  <include name="LogIN"/>
+                    <include name="CataloguePage"/>
+                    <include name="productPage"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
